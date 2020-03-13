@@ -1,0 +1,97 @@
+body{
+	background:black;
+	color:white;
+}
+div {
+
+}
+h1 {color:red;}
+h2 {color:blue;}
+.portada{
+	position:relative;
+	left:550px;
+ }
+ .portada2 {
+ 	position:relative;
+ 	left:480px;
+ }
+.portada3 {
+	position:relative;
+	left:350px;
+}
+.SERVICIOS {
+	position:relative;
+	left:580px;
+}
+.imagenes {
+	position:relative;
+	left:300px;
+}
+.servi {
+	position:relative;
+	left:320px;
+}
+.cono {
+	position:relative;
+	left:580px;
+}
+header {
+	width:70%;
+	max-width:1000px;
+	margin:auto;
+}
+
+.CONTACTANOS {
+	position:relative;
+	left:580px;
+}
+.nombres {
+	position:relative;
+	left:500px;
+}
+.ubicacion {
+	position:relative;
+	left:583px;
+}
+.mapa {
+	position:relative;
+	left:380px;
+}
+.encuesta {
+	position:relative;
+	left:583px;
+}
+.encu {
+	position:relative;
+	left:365px;
+}
+
+footer {
+
+	position:relative;
+	margin-top:-10px;
+	width: 100%;
+	padding: 10px;
+	clear:both;
+	background:orange;
+	text-align:center;
+	color:white;
+}
+#header {
+	margin:auto;
+	width:500px;
+
+}
+.nav li a {
+	background-color:gray;
+	color:black;
+	text-decoration:none;
+	padding:10px 15px;
+	display:block;
+
+}
+.nav> li {
+	float:left;
+}
+
+  
